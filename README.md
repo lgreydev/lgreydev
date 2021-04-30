@@ -1,8 +1,6 @@
 # Hi there 👋
 
-My name is Sergei Lukashchuk, I am a beginner iOS developer from Ukraine.
-
-<a href="https://lgreydev.github.io/main/cv-lukaschuk.pdf">CV</a>
+My name is Sergei Lukashchuk, I am a beginner iOS developer from Ukraine <a href="https://github.com/lgreydev/lgreydev/blob/main/cv-lukaschuk.pdf">CV</a>
 
 
 <!--
