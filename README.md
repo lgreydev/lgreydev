@@ -2,7 +2,7 @@
 
 My name is Sergei Lukashchuk, I am a beginner iOS developer from Ukraine.
 
-<a href="lgreydev.github.io/folder/cv-lukaschuk.pdf" target="CV">PDF.</a>
+<a href="https://multitudes.github.io/lgreydev/cv-lukaschuk.pdf">CV</a>
 
 
 <!--
