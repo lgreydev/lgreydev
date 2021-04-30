@@ -1,9 +1,9 @@
 # Hi there 👋
 
-My name is Sergei Lukashchuk, I am iOS developer from Ukraine <a href="https://github.com/lgreydev/lgreydev/blob/main/cv-lukaschuk.pdf">CV</a>
+My name is Sergei Lukashchuk, I am an iOS developer from Ukraine <a href="https://github.com/lgreydev/lgreydev/blob/main/cv-lukaschuk.pdf">CV</a>
 
 ## Skils
-Swift, UIKit, SwiftUI, Autolayout, MVC, MVVM, iOS SDK.
+Swift, UIKit, SwiftUI, Autolayout, MVC, MVVM, iOS SDK, Git.
 
 <!--
 **lgreydev/lgreydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
