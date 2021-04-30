@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+My name is Sergei Lukashchuk, I am a beginner iOS developer from Ukraine.
+
 
 <!--
 **lgreydev/lgreydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
