@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Sergey Lukaschuk, I am an iOS developer from Ukraine <a href="https://github.com/lgreydev/lgreydev/blob/main/cv-lukaschuk.pdf">CV</a>
+My name is Sergey Lukaschuk, I am an iOS developer from Ukraine <a href="https://github.com/lgreydev/lgreydev/blob/main/cv-lukaschuk-2021.pdf">CV</a>
 
 ## Skils
 Swift, UIKit, SwiftUI, Autolayout, MVC, MVVM, iOS SDK, Git.
