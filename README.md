@@ -8,7 +8,7 @@
 📄 <a href="https://github.com/lgreydev/lgreydev/blob/main/cv-lukaschuk-2021.pdf">CV</a>
 
 
-## Skils:
+### Skils:
 Swift, UIKit, SwiftUI, Autolayout, MVC, MVVM, iOS SDK, Git.
 
 <!--
