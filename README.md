@@ -1,9 +1,9 @@
 # Hi there 👋
 
-## I'm Sergey:
+### I'm Sergey:
 
 🧑🏼‍💻 iOS Engineer<br>
-🇺🇦 German expat<br>
+🇺🇦 Ukraine<br>
 🏎 Coding in Swift<br>
 📄 <a href="https://github.com/lgreydev/lgreydev/blob/main/cv-lukaschuk-2021.pdf">CV</a>
 
