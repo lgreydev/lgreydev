@@ -9,13 +9,13 @@
 
 
 ### Skils:
-Swift;
-UIKit, SwiftUI;
-iOS SDK;
-API (REST, JSON / XML);
-MVC, MVVM;
-OOP, Functional programming;
-Git;U
+Swift;<br>
+UIKit, SwiftUI;<br>
+iOS SDK;<br>
+API (REST, JSON / XML);<br>
+MVC, MVVM;<br>
+OOP, Functional programming;<br>
+Git;
 
 <!--
 **lgreydev/lgreydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
