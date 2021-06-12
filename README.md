@@ -9,7 +9,13 @@
 
 
 ### Skils:
-Swift, UIKit, SwiftUI, Autolayout, MVC, MVVM, iOS SDK, Git.
+Swift;
+UIKit, SwiftUI;
+iOS SDK;
+API (REST, JSON / XML);
+MVC, MVVM;
+OOP, Functional programming;
+Git;U
 
 <!--
 **lgreydev/lgreydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
