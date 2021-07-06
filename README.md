@@ -17,6 +17,9 @@ MVC, MVVM;<br>
 OOP, Functional programming;<br>
 Git;
 
+### My Projects
+[Magic Quiz](https://github.com/lgreydev/MagicQuiz)
+
 <!--
 **lgreydev/lgreydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
