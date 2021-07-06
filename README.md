@@ -21,7 +21,7 @@ Git;
 [Magic Quiz](https://github.com/lgreydev/MagicQuiz)<br>
 [Weather](https://github.com/lgreydev/WeatherSwiftUI)<br>
 [Apple Pie](https://github.com/lgreydev/ApplePie)<br>
-[Launch Screen](https://github.com/lgreydev/LaunchScreen)
+[Launch Screen](https://github.com/lgreydev/LaunchScreen)<br>
 [Guess Word](https://github.com/lgreydev/GuessWord)
 
 <!--
