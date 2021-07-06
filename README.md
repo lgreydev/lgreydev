@@ -19,7 +19,10 @@ Git;
 
 ### My Projects
 [Magic Quiz](https://github.com/lgreydev/MagicQuiz)<br>
-[Weather](https://github.com/lgreydev/WeatherSwiftUI)
+[Weather](https://github.com/lgreydev/WeatherSwiftUI)<br>
+[Apple Pie](https://github.com/lgreydev/ApplePie)<br>
+[Launch Screen](https://github.com/lgreydev/LaunchScreen)
+[Guess Word](https://github.com/lgreydev/GuessWord)
 
 <!--
 **lgreydev/lgreydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
