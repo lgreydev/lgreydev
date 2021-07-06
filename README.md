@@ -18,7 +18,8 @@ OOP, Functional programming;<br>
 Git;
 
 ### My Projects
-[Magic Quiz](https://github.com/lgreydev/MagicQuiz)
+[Magic Quiz](https://github.com/lgreydev/MagicQuiz)<br>
+[Weather](https://github.com/lgreydev/WeatherSwiftUI)
 
 <!--
 **lgreydev/lgreydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
