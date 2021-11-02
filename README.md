@@ -12,12 +12,14 @@
 Swift;<br>
 UIKit, SwiftUI;<br>
 iOS SDK;<br>
-API (REST, JSON / XML);<br>
+Firebase;<br>
+API (REST, JSON);<br>
 MVC, MVVM;<br>
 OOP, Functional programming;<br>
 Git;
 
 ### My Projects
+[ShopList](https://github.com/lgreydev/ShopList)<br>
 [Magic Quiz](https://github.com/lgreydev/MagicQuiz)<br>
 [Weather](https://github.com/lgreydev/WeatherSwiftUI)<br>
 [Apple Pie](https://github.com/lgreydev/ApplePie)<br>
