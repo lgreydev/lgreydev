@@ -3,10 +3,10 @@
 
 **About me** | **Skils** | **Projects**
 ----------------------- | ----------------------- | -----------------------
-🧑🏼‍💻 iOS Engineer<br>🇺🇦 Ukraine<br>🏎 Coding in Swift<br>📄 <a href="https://github.com/lgreydev/lgreydev/blob/main/cv-lukaschuk-2021.pdf">CV</a>| Swift;<br>UIKit, SwiftUI;<br>|[ShopList](https://github.com/lgreydev/ShopList)<br>[Magic Quiz](https://github.com/lgreydev/MagicQuiz)<br>
+🧑🏼‍💻 iOS Engineer;<br>🇺🇦 Ukraine;<br>🏎 Coding in Swift;<br>📄 <a href="https://github.com/lgreydev/lgreydev/blob/main/cv-lukaschuk-2021.pdf">CV</a>;| Swift, UIKit, SwiftUI, iOS SDK, Firebase, MVC, MVVM, Git, OOP, JSON, API; |[ShopList](https://github.com/lgreydev/ShopList)<br>[Magic Quiz](https://github.com/lgreydev/MagicQuiz)<br>[Weather](https://github.com/lgreydev/WeatherSwiftUI)<br>[Apple Pie](https://github.com/lgreydev/ApplePie)<br>[Launch Screen](https://github.com/lgreydev/LaunchScreen)<br>[Guess Word](https://github.com/lgreydev/GuessWord)
 
 
-
+<!--
 🧑🏼‍💻 iOS Engineer<br>
 🇺🇦 Ukraine<br>
 🏎 Coding in Swift<br>
@@ -31,7 +31,7 @@ Git;
 [Launch Screen](https://github.com/lgreydev/LaunchScreen)<br>
 [Guess Word](https://github.com/lgreydev/GuessWord)
 
-<!--
+
 **lgreydev/lgreydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
