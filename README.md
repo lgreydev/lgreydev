@@ -3,9 +3,7 @@
 
 **About me** | **Skils** | **Projects**
 ------------ | ------------- | -------------
-🧑🏼‍💻 iOS Engineer<br>🇺🇦 Ukraine<br>🏎 Coding in Swift<br>📄 <a href="https://github.com/lgreydev/lgreydev/blob/main/cv-lukaschuk-2021.pdf">CV</a>|
-Swift;<br>UIKit, SwiftUI;<br>| 
-[ShopList](https://github.com/lgreydev/ShopList)<br>[Magic Quiz](https://github.com/lgreydev/MagicQuiz)<br>
+🧑🏼‍💻 iOS Engineer<br>🇺🇦 Ukraine<br>🏎 Coding in Swift<br>📄 <a href="https://github.com/lgreydev/lgreydev/blob/main/cv-lukaschuk-2021.pdf">CV</a>| Swift;<br>UIKit, SwiftUI;<br>|[ShopList](https://github.com/lgreydev/ShopList)<br>[Magic Quiz](https://github.com/lgreydev/MagicQuiz)<br>
 
 
 
