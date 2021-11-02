@@ -1,10 +1,12 @@
 # Hi there 👋
 ### I'm Sergey:
 
-First Header | Second Header | Therd Header
+**About me** | **Skils** | **Projects**
 ------------ | ------------- | -------------
-Content from cell 1 | Content from cell 2 | Content from cell 3
-Content in the first column | Content in the second column | Content in the second column
+🧑🏼‍💻 iOS Engineer<br>🇺🇦 Ukraine<br>🏎 Coding in Swift<br>📄 <a href="https://github.com/lgreydev/lgreydev/blob/main/cv-lukaschuk-2021.pdf">CV</a>|
+Swift;<br>UIKit, SwiftUI;<br>| 
+[ShopList](https://github.com/lgreydev/ShopList)<br>[Magic Quiz](https://github.com/lgreydev/MagicQuiz)<br>
+
 
 
 🧑🏼‍💻 iOS Engineer<br>
