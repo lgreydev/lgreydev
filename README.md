@@ -10,7 +10,7 @@
 🧑🏼‍💻 iOS Engineer<br>
 🇺🇦 Ukraine<br>
 🏎 Coding in Swift<br>
-📄 <a href="https://github.com/lgreydev/lgreydev/blob/main/cv-lukaschuk-2021.pdf">CV</a>
+📄 <a href="https://github.com/lgreydev/lgreydev/blob/main/cv-lukaschuk.s-2022.pdf">CV</a>
 
 
 ### Skils:
