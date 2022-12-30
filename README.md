@@ -3,7 +3,7 @@
 
 **About me** | **Technology Stack** | **Projects**
 ----------------------- | ----------------------- | -----------------------
-🧑🏼‍💻 iOS Engineer;<br>🏎 Coding in Swift;<br>📄 <a href="https://github.com/lgreydev/lgreydev/blob/main/ios_dev_serhii_lukashchuk.pdf">CV</a>;| Swift, UIKit, SwiftUI, iOS SDK, Firebase, MVC, MVVM, Git, OOP, JSON, API; |[MagicBall](https://github.com/lgreydev/MagicBall)<br>[ShopList](https://github.com/lgreydev/ShopList)<br>[Magic Quiz](https://github.com/lgreydev/MagicQuiz)<br>[Weather](https://github.com/lgreydev/WeatherSwiftUI)<br>[Apple Pie](https://github.com/lgreydev/ApplePie)<br>[Launch Screen](https://github.com/lgreydev/LaunchScreen)<br>[Guess Word](https://github.com/lgreydev/GuessWord)
+🧑🏼‍💻 iOS Engineer;<br>🏎 Coding in Swift;<br>📄 <a href="https://github.com/lgreydev/lgreydev/blob/main/ios_dev_serhii_lukashchuk_cv.pdf">CV</a>;| Swift, UIKit, SwiftUI, iOS SDK, Firebase, MVC, MVVM, Git, OOP, JSON, API; |[MagicBall](https://github.com/lgreydev/MagicBall)<br>[ShopList](https://github.com/lgreydev/ShopList)<br>[Magic Quiz](https://github.com/lgreydev/MagicQuiz)<br>[Weather](https://github.com/lgreydev/WeatherSwiftUI)<br>[Apple Pie](https://github.com/lgreydev/ApplePie)<br>[Launch Screen](https://github.com/lgreydev/LaunchScreen)<br>[Guess Word](https://github.com/lgreydev/GuessWord)
 
 
 <!--
